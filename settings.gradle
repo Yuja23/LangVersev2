@@ -1,2 +1,2 @@
-rootProject.name = "Lexis"
+rootProject.name = "LangVerse"
 include ':app'
